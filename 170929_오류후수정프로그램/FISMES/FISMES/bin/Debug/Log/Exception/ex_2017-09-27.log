@@ -1,0 +1,24 @@
+23:13:40,420   System.IO.IOException: 'COM1' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: DionesTool.DEVICE.SERIAL.C0405.C0405.Open() 파일 D:\JOBS\현대모비스\FISMES\DionesTool\DEVICE\SERIAL\C0405.cs:줄 255
+23:13:45,403   System.IO.IOException: 'COM1' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: DionesTool.DEVICE.SERIAL.C0405.C0405.Open() 파일 D:\JOBS\현대모비스\FISMES\DionesTool\DEVICE\SERIAL\C0405.cs:줄 255
+23:13:50,408   System.IO.IOException: 'COM1' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: DionesTool.DEVICE.SERIAL.C0405.C0405.Open() 파일 D:\JOBS\현대모비스\FISMES\DionesTool\DEVICE\SERIAL\C0405.cs:줄 255
+23:17:18,120   System.IO.IOException: 'COM1' 포트가 없습니다.
+   위치: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   위치: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   위치: System.IO.Ports.SerialPort.Open()
+   위치: DionesTool.DEVICE.SERIAL.C0405.C0405.Open() 파일 D:\JOBS\현대모비스\FISMES\DionesTool\DEVICE\SERIAL\C0405.cs:줄 255
+23:33:39,977   System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\현대모비스\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 254

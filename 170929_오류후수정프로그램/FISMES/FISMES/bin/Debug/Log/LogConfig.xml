@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- section contains the log4net configuration settings -->
+<log4net>
+  // appender  이름과  type을 설정한다. type은 file에 남길 것이므로 예와 같이 설정하였습니다.
+  <appender name="exlog" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/Exception/"/>
+    //file을 날짜별로 변경하고 file이름은 ex_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'ex_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="30" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+
+  <appender name="errlog" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/Error/"/>
+    //file을 날짜별로 변경하고 file이름은 ex_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'err_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="30" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+  
+  <appender name="logCommFIS" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/FIS/"/>
+    //file을 날짜별로 변경하고 file이름은 ex_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'fis_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="30" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+
+  <appender name="logCommMES" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/MES/"/>
+    //file을 날짜별로 변경하고 file이름은 seq_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'mes_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="30" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+
+  <appender name="logCommRFID" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/RFID/"/>
+    //file을 날짜별로 변경하고 file이름은 seq_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'rfid_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="30" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+
+  <appender name="logSequence" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/Sequence/"/>
+    //file을 날짜별로 변경하고 file이름은 seq_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'seq_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="30" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+
+  <appender name="eventlog" type="log4net.Appender.RollingFileAppender">
+    //log를 저장 할 위치입니다.
+    <file value="./Log/Event/"/>
+    //file을 날짜별로 변경하고 file이름은 seq_2014-07-20.log로 생성되게 설정하였습니다.
+    <datePattern value="'event_'yyyy-MM-dd'.log'"/>
+    //file을 날짜 별로 변경 시 false로 설정하였습니다.
+    <staticLogFileName value="false"/>
+    //file에 log를 append 시키므로 true.
+    <appendToFile value="true"/>
+    //file을 설정에 따라 file 변경하며 저장하도록 설정
+    <rollingStyle value="Composite"/>
+    //file 용량에 따라 변경이 최대 생성되는 file 갯수 설정
+    <maxSizeRollBackups value="100"/>
+    //file 용량이 설정 값보다 크면 file변경하며 저장
+    <maximumFileSize value="10MB"/>
+    // 
+    <maxSizeRollBackups value="10" />
+    //log에 남는 patten 설정 (ex -> 16:00:40,004   Log Message)
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value = "%date{HH:mm:ss,fff}   %message%newline"/>
+    </layout>
+  </appender>
+
+  //logger  name
+  <logger name = "LoggerEx">
+    //logger level
+    <!-- 아래 로그 레벨 중 하나 선택
+        <level value="OFF " />
+        <level value="FATAL" />
+        <level value="ERROR" />
+        <level value="WARN" />
+        <level value="INFO" />
+        <level value="DEBUG" />
+        <level value="ALL" />
+        -->
+    <level value="DEBUG" />
+    <appender-ref ref="exlog" />
+  </logger>
+  
+  <logger name = "LoggerError">
+    //logger level
+    <level value="DEBUG" />
+    <appender-ref ref="errlog" />
+  </logger>
+
+  <logger name = "LoggerFIS">
+    //logger level
+    <level value="DEBUG" />
+    <appender-ref ref="logCommFIS" />
+  </logger>
+
+  <logger name = "LoggerMES">
+    //logger level
+    <level value="DEBUG" />
+    <appender-ref ref="logCommMES" />
+  </logger>
+
+  <logger name = "LoggerRFID">
+    //logger level
+    <level value="DEBUG" />
+    <appender-ref ref="logCommRFID" />
+  </logger>
+
+  <logger name = "LoggerSeq">
+    //logger level
+    <level value="DEBUG" />
+    <appender-ref ref="logSequence" />
+  </logger>
+
+  <logger name = "LoggerEvent">
+    //logger level
+    <level value="DEBUG" />
+    <appender-ref ref="eventlog" />
+  </logger>
+</log4net>

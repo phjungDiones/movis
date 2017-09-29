@@ -1,0 +1,49 @@
+C:\JOBS\경만\test\TestTcpIpAsync\TestTcpIpAsync\DionesTool\bin\Debug\DionesTool.dll
+C:\JOBS\경만\test\TestTcpIpAsync\TestTcpIpAsync\DionesTool\bin\Debug\DionesTool.pdb
+C:\JOBS\경만\test\TestTcpIpAsync\TestTcpIpAsync\DionesTool\obj\Debug\DionesTool.dll
+C:\JOBS\경만\test\TestTcpIpAsync\TestTcpIpAsync\DionesTool\obj\Debug\DionesTool.pdb
+D:\JOBS\test\TestTcpIpAsync\DionesTool\bin\Debug\DionesTool.dll
+D:\JOBS\test\TestTcpIpAsync\DionesTool\bin\Debug\DionesTool.pdb
+D:\JOBS\test\TestTcpIpAsync\DionesTool\obj\Debug\DionesTool.csprojResolveAssemblyReference.cache
+D:\JOBS\test\TestTcpIpAsync\DionesTool\obj\Debug\DionesTool.dll
+D:\JOBS\test\TestTcpIpAsync\DionesTool\obj\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\obj\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+Z:\FISMES\DionesTool\bin\Debug\DionesTool.dll
+Z:\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+Z:\FISMES\DionesTool\obj\Debug\DionesTool.csprojResolveAssemblyReference.cache
+Z:\FISMES\DionesTool\obj\Debug\DionesTool.dll
+Z:\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES_20160502_1433\FISMES\DionesTool\bin\Debug\DionesTool.dll
+E:\Diones\Source\FISMES_20160502_1433\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES_20160502_1433\FISMES\DionesTool\obj\Debug\ResolveAssemblyReference.cache
+E:\Diones\Source\FISMES_20160502_1433\FISMES\DionesTool\obj\Debug\DionesTool.dll
+E:\Diones\Source\FISMES_20160502_1433\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES\DionesTool\bin\Debug\DionesTool.dll
+E:\Diones\Source\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES\DionesTool\obj\Debug\ResolveAssemblyReference.cache
+E:\Diones\Source\FISMES\DionesTool\obj\Debug\DionesTool.dll
+E:\Diones\Source\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\DionesTool\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\DionesTool\obj\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\DionesTool\obj\Debug\DionesTool.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\DionesTool\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\DionesTool\obj\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+D:\JOBS\현대모비스\FISMES\DionesTool\bin\Debug\DionesTool.dll
+D:\JOBS\현대모비스\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+D:\JOBS\현대모비스\FISMES\DionesTool\obj\Debug\DionesTool.dll
+D:\JOBS\현대모비스\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\DionesTool\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\DionesTool\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\DionesTool\obj\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\DionesTool\obj\Debug\DionesTool.pdb
+C:\Users\jph\Desktop\wer\FISMES\DionesTool\bin\Debug\DionesTool.dll
+C:\Users\jph\Desktop\wer\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+C:\Users\jph\Desktop\wer\FISMES\DionesTool\obj\Debug\DionesTool.dll
+C:\Users\jph\Desktop\wer\FISMES\DionesTool\obj\Debug\DionesTool.pdb

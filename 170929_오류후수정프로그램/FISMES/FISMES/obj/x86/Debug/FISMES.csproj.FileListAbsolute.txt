@@ -1,0 +1,203 @@
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualRFID.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\bin\Debug\FISMES.exe
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\bin\Debug\FISMES.pdb
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\bin\Debug\DionesTool.dll
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\bin\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+E:\Diones\Source\FISMES_20160502_1433\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualRFID.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\FISMES.exe.config
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\FISMES\bin\Debug\log4net.dll
+E:\Diones\Source\FISMES\FISMES\bin\Debug\FISMES.exe.config
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualRFID.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Diones\Source\FISMES\FISMES\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Diones\Source\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+E:\Diones\Source\FISMES\FISMES\bin\Debug\FISMES.exe
+E:\Diones\Source\FISMES\FISMES\bin\Debug\FISMES.pdb
+E:\Diones\Source\FISMES\FISMES\bin\Debug\DionesTool.dll
+E:\Diones\Source\FISMES\FISMES\bin\Debug\log4net.dll
+E:\Diones\Source\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+E:\Diones\Source\FISMES\FISMES\bin\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\FISMES.exe.config
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\log4net.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualRFID.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\FISMES.exe.config
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\log4net.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\FISMES.exe.config
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\FISMES.exe
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\FISMES.pdb
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\DionesTool.dll
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\log4net.dll
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\DionesTool.pdb
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualRFID.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+D:\JOBS\현대모비스\FISMES\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.PC.xml
+D:\JOBS\현대모비스\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\FISMES.exe.config
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\Log\LogConfig.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\FISMES.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\FISMES.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\log4net.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\ToggleSwitch.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\ToggleSwitch.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\Cognex.DataMan.SDK.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualBarcode.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualBarcode.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\FISMES.exe.config
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\FISMES.exe
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\FISMES.pdb
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\DionesTool.dll
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\log4net.dll
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\DionesTool.pdb
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Users\jph\Desktop\wer\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualBarcode.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+C:\Users\jph\Desktop\wer\FISMES\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\FISMES.exe.config
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.exe
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.pdb
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\Log\LogConfig.xml
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\FISMES.exe
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\FISMES.pdb
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\DionesTool.dll
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\log4net.dll
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\ToggleSwitch.dll
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\DionesTool.pdb
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\ToggleSwitch.pdb
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.csprojResolveAssemblyReference.cache
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormAuto.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FormMain.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualFIS.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualMES.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormManualBarcode.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.FormSetting.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.FORMS.POPUP.FormPopupSetting.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.Properties.Resources.resources
+C:\Users\jph\Desktop\170929_오류후수정프로그램\FISMES\FISMES\obj\x86\Debug\FISMES.csproj.GenerateResource.Cache

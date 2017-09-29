@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValueSocketMES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ipaddr>10.240.182.107</ipaddr>
+  <port>9001</port>
+  <maxClientCount>1</maxClientCount>
+  <timeoutSecT3>10</timeoutSecT3>
+  <msgID>85015</msgID>
+  <factoryID>6000</factoryID>
+  <lineID>CI04</lineID>
+  <operID>030</operID>
+  <eqpPosID>CI04-030</eqpPosID>
+</ValueSocketMES>
