@@ -52,11 +52,6 @@ namespace FISMES.DATA
             if (!IsConnected) return false;
 
             LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, "_system.SendCommand(TRIGGER ON);");
-            if (!GlobalVariable1.Instance.bFistConnect)
-            {
-                GlobalVariable1.Instance.bFistConnect = true;
-                System.Threading.Thread.Sleep(6000);
-            }
             try
             {
                 m_System.SendCommand("TRIGGER ON");
@@ -135,11 +130,53 @@ namespace FISMES.DATA
         {
             _syncContext = WindowsFormsSynchronizationContext.Current;
 
-            SerSystemDiscoverer serSystemDiscoverer = new SerSystemDiscoverer();
-            serSystemDiscoverer.SystemDiscovered += new SerSystemDiscoverer.SystemDiscoveredHandler(serSystemDiscoverer_SystemDiscovered);
+            //SerSystemDiscoverer serSystemDiscoverer = new SerSystemDiscoverer();
+            //serSystemDiscoverer.SystemDiscovered += new SerSystemDiscoverer.SystemDiscoveredHandler(serSystemDiscoverer_SystemDiscovered);
 
-            LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, "Connect -> Discover();");
-            serSystemDiscoverer.Discover();
+            //LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, "Connect -> Discover();");
+            //serSystemDiscoverer.Discover();
+
+            m_Connector = new SerSystemConnector("COM7", 115200);
+
+
+
+
+            m_System = new DataManSystem(m_Connector);
+
+
+
+            LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, string.Format("System -> {0}", m_System.ToString()));
+            m_System.DefaultTimeout = 5000;
+
+            LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, "Event Registered");
+            m_System.SystemConnected += new SystemConnectedHandler(OnSystemConnected);
+            m_System.SystemDisconnected += new SystemDisconnectedHandler(OnSystemDisconnected);
+            m_System.SystemWentOnline += new SystemWentOnlineHandler(OnSystemWentOnline);
+            m_System.SystemWentOffline += new SystemWentOfflineHandler(OnSystemWentOffline);
+            m_System.KeepAliveResponseMissed += new KeepAliveResponseMissedHandler(OnKeepAliveResponseMissed);
+            m_System.BinaryDataTransferProgress += new BinaryDataTransferProgressHandler(OnBinaryDataTransferProgress);
+            m_System.OffProtocolByteReceived += new OffProtocolByteReceivedHandler(OffProtocolByteReceived);
+            m_System.AutomaticResponseArrived += new AutomaticResponseArrivedHandler(AutomaticResponseArrived);
+
+            // Subscribe to events that are signalled when the device sends auto-responses.
+            ResultTypes requested_result_types = ResultTypes.ReadXml | ResultTypes.Image | ResultTypes.ImageGraphics;
+            _results = new ResultCollector(m_System, requested_result_types);
+            _results.ComplexResultCompleted += Results_ComplexResultCompleted;
+            _results.SimpleResultDropped += Results_SimpleResultDropped;
+
+            m_System.SetKeepAliveOptions(true, 3000, 1000);
+
+            try
+            {
+                m_System.Connect();
+                m_System.SetResultTypes(requested_result_types);
+
+                LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, "Success connected");
+            }
+            catch (Exception ex)
+            {
+                LogManager.Instance.WriteI(LOG_TYPE.COMM_RFID, ex.ToString());
+            }
         }
 
         void serSystemDiscoverer_SystemDiscovered(SerSystemDiscoverer.SystemInfo systemInfo)

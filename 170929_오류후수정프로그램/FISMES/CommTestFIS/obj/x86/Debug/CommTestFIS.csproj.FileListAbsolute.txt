@@ -69,3 +69,13 @@ C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties
 C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
 C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
 C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb

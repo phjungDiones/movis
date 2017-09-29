@@ -67,7 +67,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DATA\DevBarcodeDm260.cs" />
-    <Compile Include="DATA\GlobalVariable.cs" />
     <Compile Include="DATA\SettingSocketFIS.cs" />
     <Compile Include="DATA\SettingSocketMES.cs" />
     <Compile Include="DATA\TEST.cs" />

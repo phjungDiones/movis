@@ -1,5 +1,0 @@
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\bin\Release\DionesTool.dll
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\bin\Release\DionesTool.pdb
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\obj\Release\DionesTool.dll
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\obj\Release\DionesTool.pdb
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\obj\Release\DionesTool.csprojResolveAssemblyReference.cache

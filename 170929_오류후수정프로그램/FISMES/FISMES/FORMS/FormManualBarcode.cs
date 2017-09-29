@@ -99,5 +99,10 @@ namespace FISMES.FORMS
             GlobalVariable.DEV_BARCODE.TriggerOn();
             buttonSendTrg.Enabled = false;
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -47,3 +47,7 @@ C:\Users\jph\Desktop\wer\FISMES\DionesTool\bin\Debug\DionesTool.dll
 C:\Users\jph\Desktop\wer\FISMES\DionesTool\bin\Debug\DionesTool.pdb
 C:\Users\jph\Desktop\wer\FISMES\DionesTool\obj\Debug\DionesTool.dll
 C:\Users\jph\Desktop\wer\FISMES\DionesTool\obj\Debug\DionesTool.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\DionesTool\bin\Debug\DionesTool.dll
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\DionesTool\bin\Debug\DionesTool.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\DionesTool\obj\Debug\DionesTool.dll
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\DionesTool\obj\Debug\DionesTool.pdb

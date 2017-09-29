@@ -42,3 +42,7 @@ C:\Users\jph\Desktop\wer\FISMES\ToggleSwitch\bin\Debug\ToggleSwitch.dll
 C:\Users\jph\Desktop\wer\FISMES\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
 C:\Users\jph\Desktop\wer\FISMES\ToggleSwitch\obj\Debug\ToggleSwitch.dll
 C:\Users\jph\Desktop\wer\FISMES\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\jph\Pictures\구글업로드폴더\github\충주\충주\170929_오류후수정프로그램\FISMES\ToggleSwitch\obj\Debug\ToggleSwitch.pdb

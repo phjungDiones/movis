@@ -1,9 +1,0 @@
-C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Release\ToggleSwitch.dll
-C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Release\ToggleSwitch.pdb
-C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.dll
-C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Release\ToggleSwitch.pdb
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\ToggleSwitch\bin\Release\ToggleSwitch.dll
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\ToggleSwitch\bin\Release\ToggleSwitch.pdb
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\ToggleSwitch\obj\Release\ToggleSwitch.dll
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\ToggleSwitch\obj\Release\ToggleSwitch.pdb
-D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\ToggleSwitch\obj\Release\ToggleSwitch.csprojResolveAssemblyReference.cache

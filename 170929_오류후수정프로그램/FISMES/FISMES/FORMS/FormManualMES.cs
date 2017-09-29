@@ -36,7 +36,6 @@ namespace FISMES.FORMS
 
         private void FormManualMES_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("테스트1");
             listViewMES.Items.Clear();
 
             comboBoxProcessResultM3.SelectedIndex = 0;

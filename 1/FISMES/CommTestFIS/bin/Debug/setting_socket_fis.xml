@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ValueSocketFIS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ipaddr>127.0.0.1</ipaddr>
-  <port>9000</port>
-  <maxClientCount>1</maxClientCount>
-</ValueSocketFIS>
