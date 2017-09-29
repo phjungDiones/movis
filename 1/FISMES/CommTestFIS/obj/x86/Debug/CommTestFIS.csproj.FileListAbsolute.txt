@@ -1,0 +1,71 @@
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+E:\Diones\Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+E:\Diones\Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+E:\Diones\Source\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+E:\Diones\Source\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+E:\Diones\Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 HYUNDAI MOBIS\02. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+D:\JOBS\현대모비스\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+D:\JOBS\현대모비스\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+D:\JOBS\현대모비스\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+D:\JOBS\현대모비스\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+D:\JOBS\현대모비스\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+D:\JOBS\현대모비스\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+D:\JOBS\현대모비스\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+D:\JOBS\현대모비스\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+D:\JOBS\현대모비스\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+D:\JOBS\현대모비스\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\bin\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\bin\Debug\CommTestFIS.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\bin\Debug\DionesTool.dll
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\bin\Debug\DionesTool.pdb
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+D:\JOBS\Diones\01. Nordson Mobis MES\충주 신규 클러스터 라인\03. Source\FISMES_20170927_2337\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\bin\Debug\CommTestFIS.exe
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\bin\Debug\CommTestFIS.pdb
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\bin\Debug\DionesTool.dll
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\bin\Debug\DionesTool.pdb
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csprojResolveAssemblyReference.cache
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.FormMain.resources
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.Properties.Resources.resources
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.csproj.GenerateResource.Cache
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.exe
+C:\Users\jph\Desktop\wer\FISMES\CommTestFIS\obj\x86\Debug\CommTestFIS.pdb

@@ -1,0 +1,50 @@
+﻿[2016-05-20 오전 12:51:58 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 252 ]
+[2016-05-20 오전 12:52:51 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 252 ]
+[2016-05-20 오전 12:53:37 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 255 ]
+[2016-05-20 오전 12:53:59 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 252 ]
+[2016-05-20 오전 12:55:37 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 252 ]
+[2016-05-20 오전 1:52:18 [5:ERROR (TcpServerAsync)] System.Net.Sockets.SocketException (0x80004005): 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.ReadCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 301 ]
+[2016-05-20 오전 1:54:45 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   위치: System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.ReadCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 301 ]
+[2016-05-20 오전 1:54:45 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 252 ]
+[2016-05-20 오전 2:00:19 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   위치: System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.ReadCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 305 ]
+[2016-05-20 오전 2:00:19 [5:ERROR (TcpServerAsync)] System.ObjectDisposedException: 삭제된 개체에 액세스할 수 없습니다.
+개체 이름: 'System.Net.Sockets.Socket'
+   위치: System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.AcceptCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 256 ]
+[2016-05-20 오후 10:25:32 [5:ERROR (TcpServerAsync)] System.Net.Sockets.SocketException (0x80004005): 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다
+   위치: System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   위치: DionesTool.Tcp.TcpServerAsync.ReadCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 314 ]
+[2016-05-20 오후 10:27:39 [5:ERROR (TcpServerAsync)] System.IndexOutOfRangeException: 인덱스가 배열 범위를 벗어났습니다.
+   위치: System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   위치: System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   위치: System.Windows.Forms.Control.Invoke(Delegate method)
+   위치: CommTestFIS.FormMain.socketFIS_deleReceived(Socket sw, String msg) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\CommTestFIS\FormMain.cs:줄 62
+   위치: DionesTool.Tcp.TcpServerAsync.ReadCallback(IAsyncResult ar) 파일 D:\JOBS\Diones\01. Nordson Mobis MES\02. Source\FISMES\DionesTool\TCP\TcpServerAsync.cs:줄 333 ]
